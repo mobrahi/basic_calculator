@@ -242,7 +242,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@mobrahi](https://github.com/yourusername)
-- Twitter: [@faairuz](https://twitter.com/yourtwitter)
+
 
 ## 🙏 Acknowledgments
 
